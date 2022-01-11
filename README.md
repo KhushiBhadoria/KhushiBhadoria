@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KhushiBhadoria
+- 👋 Hi, I’m Khushi Bhadoria
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on github
